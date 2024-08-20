@@ -1,0 +1,31 @@
+#container {
+    margin-top: 5%;
+  }
+  #intro {
+    font-size: 4.3rem;
+    padding-bottom: 20px;
+    padding-top: 40px;
+    font-weight: 700;
+    color: rgb(206, 206, 206);
+    text-shadow: 0 0 3px #000000, 0 0 5px #000000;
+  }
+  #intro2 {
+    font-size: 3.8rem;
+    margin-top: 23%;
+    padding-bottom: 20px;
+    font-weight: 700;
+    color: rgb(206, 206, 206);
+  }
+  #intro3 {
+    font-size: 3.8rem;
+    margin-top: 18%;
+    padding-bottom: 20px;
+    font-weight: 700;
+    color: rgb(206, 206, 206);
+  }
+  #des {
+    font-size: 2.2rem;
+    font-weight: 700;
+    color: rgb(37, 37, 37);
+    padding-bottom: 20px;
+  }
