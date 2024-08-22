@@ -9,7 +9,7 @@
   "author": "Youcef",
   "license": "ISC",
   "engines": {
-    "node": "14.x"
+    "node": "20.x"
   },
   "dependencies": {
     "bcrypt": "^5.0.1",
